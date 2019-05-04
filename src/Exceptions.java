@@ -13,7 +13,7 @@ import java.util.Scanner;
  * - rethrow an exception in catch block
  * - return in both catch and finally
  * - throw in both catch and finally
- * - check/uncheck
+ * - checked/unchecked
  * 
  * @author Yuanfang
  */
